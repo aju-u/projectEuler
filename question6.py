@@ -1,4 +1,4 @@
-# Solution for Question 6:
+# Solution for Question 6 - Sum square difference
 
 i = 1
 sumOfSquares = 0

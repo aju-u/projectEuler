@@ -1,4 +1,4 @@
-# Solution for Question 2
+# Solution for Question 2 - Sum of even Fibonacci numbers not exceeding four million
 
 a, b = 1, 2
 total = 0

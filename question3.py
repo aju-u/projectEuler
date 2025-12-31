@@ -1,4 +1,4 @@
-# Solution for Question 3
+# Solution for Question 3 - Find the largest prime factor of a number
 
 n = 600851475143
 factor = 2

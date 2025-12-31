@@ -1,4 +1,4 @@
-# Solution for Question 1
+# Solution for Question 1 - Find the sum of all multiples of 3 or 5 below 1000
 
 total = 0
 
