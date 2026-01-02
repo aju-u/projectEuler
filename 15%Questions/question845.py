@@ -1,4 +1,4 @@
-# Question 845: Find D(10^16) where D(n) is the nth positive integer whose digit sum is prime.
+# Solution for Question 845: Find D(10^16) where D(n) is the nth positive integer whose digit sum is prime.
 
 # This question was really hard, so I'm going to break down the code.
 

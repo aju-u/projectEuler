@@ -1,4 +1,4 @@
-# Question 112: Bouncy Numbers
+# Solution for Question 112: Bouncy Numbers
 
 def isBouncy(n):
     digits = list(str(n))

@@ -1,4 +1,4 @@
-# Question 5 - Smallest multiple
+# Solution for Question 5 - Smallest multiple
 
 import math
 
